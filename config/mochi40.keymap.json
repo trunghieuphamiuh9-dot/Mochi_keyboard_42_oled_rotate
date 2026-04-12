@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "keymap": [
+    {
+      "name": "default_layer",
+      "layers": [
+        [
+          "ESC", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "BSPC",
+          "TAB", "A", "S", "D", "F", "G", "H", "J", "K", "L", "SEMI", "SQT",
+          "LSHFT", "Z", "X", "C", "V", "B", "N", "M", "COMMA", "DOT", "FSLH", "RET",
+          "LCTRL", "LGUI", "LALT", "BSLH", "MO(2)", "SPACE", "LT(1 SPACE)", "LEFT", "UP", "DOWN", "RIGHT", "C_PP"
+        ]
+      ]
+    },
+    {
+      "name": "right",
+      "layers": [
+        [
+          "LS(GRAVE)", "LS(N1)", "LS(N2)", "LS(N3)", "LS(N4)", "LS(N5)", "LS(N6)", "LS(N7)", "LS(N8)", "LS(N9)", "LS(N0)", "DEL",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "MINUS", "EQUAL", "LBKT", "RBKT", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "LS(COMMA)", "LS(DOT)", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "C_MUTE", "C_VOL_DN", "C_VOL_UP", "C_PP", "trans"
+        ]
+      ]
+    },
+    {
+      "name": "left",
+      "layers": [
+        [
+          "GRAVE", "N1", "N2", "N3", "N4", "N5", "N6", "N7", "N8", "N9", "N0", "BSPC",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "UNDER", "PLUS", "LBRC", "RBRC", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans", "trans", "HOME", "PG_DN", "PG_UP", "END", "trans"
+        ]
+      ]
+    },
+    {
+      "name": "control",
+      "layers": [
+        [
+          "sys_reset", "bootloader", "BT_CLR", "BT_PRV", "BT_NXT", "trans", "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "F11", "F12", "F13", "F14", "F15", "F16", "F17", "F18", "F19", "F20", "trans",
+          "trans", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "trans",
+          "studio_unlock", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "trans", "EP_ON"
+        ]
+      ]
+    }
+  ]
+}
