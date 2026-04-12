@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "keyboard": {
+    "name": "fine!40",
+    "rows": 8,
+    "cols": 6
+  },
+  "keymap": [
+    {
+      "name": "default_layer",
+      "layers": [
+        [
+          "ESC", "Q", "W", "E", "R", "T",
+          "TAB", "A", "S", "D", "F", "G",
+          "LSHIFT", "Z", "X", "C", "V", "B",
+          "LCTRL", "LGUI", "LALT", "BSLH", "MO(2)", "SPACE",
+          
+          "Y", "U", "I", "O", "P", "BSPC",
+          "H", "J", "K", "L", "SEMI", "SQT",
+          "N", "M", "COMMA", "DOT", "FSLH", "RET",
+          "LT(1 SPACE)", "LEFT", "UP", "DOWN", "RIGHT", "C_PP"
+        ]
+      ]
+    },
+    {
+      "name": "right_layer",
+      "layers": [
+        [
+          "LS(GRAVE)", "LS(N1)", "LS(N2)", "LS(N3)", "LS(N4)", "LS(N5)",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          
+          "LS(N6)", "LS(N7)", "LS(N8)", "LS(N9)", "LS(N0)", "DEL",
+          "trans", "MINUS", "EQUAL", "LBKT", "RBKT", "trans",
+          "trans", "trans", "LS(COMMA)", "LS(DOT)", "trans", "trans",
+          "trans", "C_MUTE", "C_VOL_DN", "C_VOL_UP", "C_PP", "trans"
+        ]
+      ]
+    },
+    {
+      "name": "left_layer",
+      "layers": [
+        [
+          "GRAVE", "N1", "N2", "N3", "N4", "N5",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          
+          "N6", "N7", "N8", "N9", "N0", "BSPC",
+          "trans", "UNDER", "PLUS", "LBRC", "RBRC", "trans",
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "HOME", "PG_DN", "PG_UP", "END", "trans"
+        ]
+      ]
+    },
+    {
+      "name": "control_layer",
+      "layers": [
+        [
+          "sys_reset", "bootloader", "BT_CLR", "BT_PRV", "BT_NXT", "trans",
+          "trans", "F11", "F12", "F13", "F14", "F15",
+          "trans", "F1", "F2", "F3", "F4", "F5",
+          "studio_unlock", "trans", "trans", "trans", "trans", "trans",
+          
+          "trans", "trans", "trans", "trans", "trans", "trans",
+          "trans", "F16", "F17", "F18", "F19", "F20",
+          "trans", "F6", "F7", "F8", "F9", "F10",
+          "trans", "trans", "trans", "trans", "trans", "EP_ON"
+        ]
+      ]
+    }
+  ]
+}
